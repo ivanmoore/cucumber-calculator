@@ -1,1 +1,1 @@
-in intellij, import "examples/java-calculator"
+in intellij, import "examples/java-calculator" using "maven"
